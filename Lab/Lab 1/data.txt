@@ -1,0 +1,11 @@
+mango
+strawberry
+lime
+apple
+orange
+cherry
+peach
+avocado
+banana
+lemon
+plum
