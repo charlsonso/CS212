@@ -1,0 +1,8 @@
+stringGen()
+	len = random +1;
+	string word = "";
+	for(int i=0;i<len;i++){
+ch = rand()%95+32
+	word +=ch;
+	return word
+	}
